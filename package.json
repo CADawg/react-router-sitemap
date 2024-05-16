@@ -1,6 +1,6 @@
 {
   "name": "@snaddyvitch-dispenser/react-router-sitemap",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "Module to generate a sitemap for react-router configuration",
   "repository": {
     "type": "git",
@@ -31,7 +31,8 @@
   "files": [
     "index.js",
     "index.es5.js",
-    "lib"
+    "lib",
+    "index.d.ts"
   ],
   "devDependencies": {
     "babel": "^6.5.2",

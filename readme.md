@@ -6,7 +6,7 @@ Module for generating sitemaps using [React Router](https://www.npmjs.com/packag
 
 ## Install
 
-`npm i --save react-router-sitemap`
+`npm i --save @snaddyvitch-dispenser/react-router-sitemap`
 
 ## Usage
 

@@ -1,10 +1,10 @@
 {
   "name": "@snaddyvitch-dispenser/react-router-sitemap",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "description": "Module to generate a sitemap for react-router configuration",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kuflash/react-router-sitemap.git"
+    "url": "https://github.com/CADawg/react-router-sitemap.git"
   },
   "keywords": [
     "react",
@@ -27,6 +27,20 @@
     "prepublish": "npm run build"
   },
   "author": "Igor Uvarov <kuflash@ya.ru> (http://kuflash.ru)",
+  "contributors": [
+    {
+      "name": "Conor",
+      "email": "gitwith@cadawg.com",
+      "url": "https://cadawg.com"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Conor",
+      "email": "gitwith@cadawg.com",
+      "url": "https://cadawg.com"
+    }
+  ],
   "license": "MIT",
   "files": [
     "index.js",
@@ -67,5 +81,6 @@
   },
   "dependencies": {
     "sitemap": "^1.6.0"
-  }
+  },
+  "types": "index.d.ts"
 }
